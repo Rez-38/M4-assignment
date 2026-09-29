@@ -11,3 +11,5 @@ for (let i = 1; i <= 7; i++) {
         sharp += '#';
     }
 }
+
+document.write(`<h4>Check the console...</h4>`);
